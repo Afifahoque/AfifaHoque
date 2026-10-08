@@ -1,52 +1,69 @@
 <div align="center">
-
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe600,100:00c3ff&height=200&section=header&text=I'm%20Ready!%20🍍&fontSize=42&fontColor=003366" width="100%" />
+  <!-- Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:ffff1a&height=180&section=header&text=Afifa%20Hoque%20%E2%9C%A8&fontSize=42&fontColor=003366" width="100%" />
 
   <!-- Dynamic Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=003366&center=true&vCenter=true&width=600&lines=Flipping+Krabby+Patties+and+Training+Models...;Launching+code+like+Angry+Birds!+%F0%9F%9A%80;Welcome+to+my+GitHub+Lair!+%E2%9C%A8" alt="Typing SVG" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00c3ff&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+Egocentric+AI+Researcher;PyTorch+%7C+Vision-Language+Models;Building+Smart+Perception+Systems" alt="Typing SVG" />
+  </p>
 
-  <br><br>
-
-  <!-- Animated GIF -->
-  <img src="https://media.giphy.com/media/nDSlfqf0Ukgz6/giphy.gif" width="280" alt="SpongeBob Coding" />
-
-  <br><br>
-
-  <!-- Fun Tech Stack Badges -->
-  <img src="https://img.shields.io/badge/SpongeBob_(Python)-FFD700?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Chuck_(PyTorch)-FFD700?style=for-the-badge&logo=pytorch&logoColor=black" />
-  <img src="https://img.shields.io/badge/Patrick_(React)-FF69B4?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Red_(Linux)-E50914?style=for-the-badge&logo=linux&logoColor=white" />
-
+  <!-- Social & Portfolio Links -->
+  <p style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+    <a href="https://linkedin.com/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://scholar.google.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"/>
+    </a>
+    <a href="mailto:afifahoque@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 </div>
 
 ---
 
-### 🕹️ Arcade Contribution Graph
-> *Pac-Man eating through my contribution grid daily!*
+### 🔬 About Me
+
+👋 Hi! I'm Afifa Hoque, a Computer Vision researcher focused on first-person video analysis, egocentric decision support systems, and vision-language model architectures.
+
+- 🎓 **Background:** B.Sc. in Computer Science & Engineering.
+- 🎯 **Primary Focus:** Egocentric AI, Vision-Language Models (VLMs), Object Detection, and Road Safety Perception.
+- ⚙️ **Stack:** Python, PyTorch, OpenCV, Linux, Git, and Web Frameworks (React, Tailwind CSS).
+- ⚡ **Fun Fact:** Huge Iron Man fan 🤖 and love preparing paper layouts in LaTeX!
+
+---
+
+<h2 align="center">💻 Tech & Toolkit</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Afifahoque/Afifahoque/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </div>
 
 ---
 
-### 🏆 Krusty Krab Stats & Trophies
+### 🏙️ 3D Contribution Isometric Map
+> *A 3D city rendered directly from my GitHub contributions!*
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Afifahoque&theme=onedark&column=4" width="90%" />
-  
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Afifahoque&show_icons=true&theme=sunshine&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afifahoque&layout=compact&theme=sunshine&hide_border=true" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afifahoque/Afifahoque/main/profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afifahoque/Afifahoque/main/profile-3d-contrib/profile-green-animate.svg">
+    <img alt="3D Contribution Map" src="https://raw.githubusercontent.com/Afifahoque/Afifahoque/main/profile-3d-contrib/profile-green-animate.svg">
+  </picture>
 </div>
 
 ---
 
 <details>
-  <summary><b>🔍 Peek inside my component architecture (TypeScript)</b></summary>
+  <summary><b>🔍 Catalyst Web Component Architecture (TypeScript)</b></summary>
 
   <br>
 
@@ -54,14 +71,14 @@
 import {attr, controller} from '@github/catalyst'
 
 /**
- * ProfileEasterEggElement
- * Fun controller listening to active tab states!
+ * ProfileWatcherElement
+ * Custom Web Component setup for profile interactions
  */
-@controller('profile-easter-egg')
-export class ProfileEasterEggElement extends HTMLElement {
-  @attr declare greeting: string
+@controller('profile-watcher')
+export class ProfileWatcherElement extends HTMLElement {
+  @attr declare activeTab: string
 
   connectedCallback() {
-    console.log("I'm Ready! 🍍")
+    console.log('Welcome to Afifa\'s GitHub Profile! 🚀')
   }
 }
