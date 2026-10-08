@@ -1,4 +1,4 @@
-name: GitHub 3D Contrib
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
@@ -9,23 +9,21 @@ permissions:
   contents: write
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-3d-contrib
+  generate:
+    runs-on: ubuntu-24.04
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - name: Generate Pacman SVG
+        uses: abozanona/pacman-contribution-graph@v1
+        with:
+          game: 'pacman'
+          platform: 'github'
+          username: ${{ github.repository_owner }}
+          gameTheme: 'github-dark'
 
-      - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Push SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Commit & Push Changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A .
-          git commit -m "Generated 3D Contribution Map" || exit 0
-          git push
