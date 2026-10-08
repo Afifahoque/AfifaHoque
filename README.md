@@ -47,35 +47,4 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </div>
 
----
 
-### 🕹️ Pac-Man Contribution Arcade
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afifahoque/Afifahoque/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afifahoque/Afifahoque/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Afifahoque/Afifahoque/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-<details>
-  <summary><b>🔍 Catalyst Web Component Architecture (TypeScript)</b></summary>
-
-  <br>
-
-```typescript
-import {attr, controller} from '@github/catalyst'
-
-/**
- * ProfileWatcherElement
- * Custom Web Component setup for profile interactions
- */
-@controller('profile-watcher')
-export class ProfileWatcherElement extends HTMLElement {
-  @attr declare activeTab: string
-
-  connectedCallback() {
-    console.log('Welcome to Afifa\'s GitHub Profile! 🚀')
-  }
-}
