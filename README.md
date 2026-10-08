@@ -49,16 +49,13 @@
 
 ---
 
-### 🏙️ 3D Contribution Isometric Map
-> *A 3D city rendered directly from my GitHub contributions!*
+### 🕹️ Pac-Man Contribution Arcade
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afifahoque/Afifahoque/main/profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afifahoque/Afifahoque/main/profile-3d-contrib/profile-green-animate.svg">
-    <img alt="3D Contribution Map" src="https://raw.githubusercontent.com/Afifahoque/Afifahoque/main/profile-3d-contrib/profile-green-animate.svg">
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afifahoque/Afifahoque/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afifahoque/Afifahoque/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Afifahoque/Afifahoque/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
