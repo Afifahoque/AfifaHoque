@@ -79,7 +79,7 @@
 
 <div align="center">
 
-<img src="assets/ocean-footer.svg" width="100%" alt="Animated ocean footer banner" />
+<img src="ocean-footer.svg" width="100%" alt="Animated ocean footer banner" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,24&height=120&section=footer" width="100%" alt="waves" />
 
