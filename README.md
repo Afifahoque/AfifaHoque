@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,24&height=120&section=header&animation=fadeIn" width="100%" alt="waves" />
+%<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,24&height=120&section=header&animation=fadeIn" width="100%" alt="waves" />%
 
-<img src="assets/ocean-banner.svg" width="100%" alt="Animated ocean banner with swimming clownfish" />
+<img src="ocean-banner.svg" width="100%" alt="Animated ocean banner with swimming clownfish" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF7A00&center=true&vCenter=true&width=700&lines=Swimming+into+the+deep+end+of+research;Teaching+machines+to+read+the+road;Annotating+Bangladeshi+streets%2C+one+frame+at+a+time;Dive+in+and+say+hi" alt="Typing SVG" />
 
