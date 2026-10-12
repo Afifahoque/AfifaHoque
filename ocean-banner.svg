@@ -92,7 +92,7 @@
 
   <!-- title -->
   <text x="450" y="92" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="46" font-weight="800" fill="#fff" stroke="#0d3b8c" stroke-width="1.5" paint-order="stroke">
-    Hi, I'm YOUR_NAME
+    Hi, I'm Afifa Hoque Tisha
     <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"/>
   </text>
   <text x="450" y="128" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="20" fill="#fff" fill-opacity="0.95">
